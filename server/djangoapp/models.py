@@ -1,4 +1,6 @@
 # Uncomment the following imports before adding the Model code
+/*jshint esversion: 8 */
+
 
 from django.db import models
 from django.utils.timezone import now
